@@ -124,12 +124,6 @@ The weighted CNN achieved the best balanced performance on the test set.
 
 # How to Run
 
-## Clone the Repository
-
-```bash
-git clone <repository-link>
-cd <repository-folder>
-```
 
 ## Install Dependencies
 

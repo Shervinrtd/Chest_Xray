@@ -140,15 +140,10 @@ Open the Jupyter Notebook or Google Colab notebook and execute the cells sequent
 # Project Structure
 
 ```text
-├── data/
-├── notebooks/
-├── models/
-├── outputs/
-│   ├── plots/
-│   ├── heatmaps/
-│   └── confusion_matrices/
-├── README.md
-└── requirements.txt
+
+├── notebook/
+├── report/
+└── README.md
 ```
 
 ---
